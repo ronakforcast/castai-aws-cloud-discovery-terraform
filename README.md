@@ -1,1 +1,0 @@
-# castai-aws-cloud-discovery-terraform
